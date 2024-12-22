@@ -1,6 +1,6 @@
 Tactic,Technique,Procedure
 0. Acquiring assets,0.1 Acquiring IP addresses,0.1.1 Acquiring proxy IP addresses
-0. Acquiring assets,0.1 Acquiring IP addresses,0.1.2 Acquiring VPN
+0. Acquiring assets,0.1 Acquiring IP addresses,0.1.2 Acquiring VPN 
 0. Acquiring assets,0.2 Acquiring email addresses,0.2.1 Acquiring email addresses on owned domains
 0. Acquiring assets,0.2 Acquiring email addresses,0.2.2 Acquiring freely available email addresses
 0. Acquiring assets,0.2 Acquiring email addresses,0.2.3 Acquiring encrypted email
@@ -170,4 +170,5 @@ support malware campaigns"
 9. Enabling longevity,9.6 Denying exposure,9.6.1 Public denial 
 9. Enabling longevity,9.6 Denying exposure,9.6.2 Private denial to core targets
 9. Enabling longevity,9.8 Perception hacking,9.7.1 Posting exaggerated claims 
-9. Enabling longevity,9.8 Perception hacking,9.7.2 Posting entirely false claims
+9. Enabling longevity,9.8 Perception hacking,9.7.2 Posting entirely false claims 
+9.has all
